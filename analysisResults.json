@@ -1,0 +1,36 @@
+{
+  "results": [
+    {
+      "tweetId": "1234567890",
+      "deserves_reply": true,
+      "pitching_token": true,
+      "need_info": false,
+      "good_idea_to_deploy": true,
+      "reasoning": "The tweet presents a clear token idea based on renewable energy credits, which is a relevant and timely topic given the global focus on sustainability. It deserves a reply to encourage further discussion and exploration of the idea."
+    },
+    {
+      "tweetId": "1234567891",
+      "deserves_reply": true,
+      "pitching_token": false,
+      "need_info": false,
+      "good_idea_to_deploy": false,
+      "reasoning": "This tweet is a general inquiry about the market and does not present a token idea. It deserves a reply to engage with the user and provide insights on the market."
+    },
+    {
+      "tweetId": "1234567892",
+      "deserves_reply": true,
+      "pitching_token": true,
+      "need_info": false,
+      "good_idea_to_deploy": true,
+      "reasoning": "The tweet proposes a token for decentralized cloud storage, which is a viable and innovative idea in the blockchain space. It deserves a reply to discuss the potential implementation and benefits of the idea."
+    },
+    {
+      "tweetId": "1234567893",
+      "deserves_reply": false,
+      "pitching_token": false,
+      "need_info": false,
+      "good_idea_to_deploy": false,
+      "reasoning": "This tweet is a casual expression and does not present a token idea or require further information. It does not warrant a reply as it lacks substance."
+    }
+  ]
+}
